@@ -1,1 +1,1 @@
-SELECT Sqltuto
+select * from users
